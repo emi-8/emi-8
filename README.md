@@ -1,9 +1,9 @@
 # Hi, I'm Emi 👋
 
 🐍 I’m learning full-stack development with Python and Django  
-🔐 Exploring cybersecurity & ethical hacking  
+🛡️ Exploring cybersecurity with Kali Linux (CTFs & PortSwigger labs)  
 🧠 I love building small projects to learn by doing  
-💬 Favorite tools: VS Code, Kali Linux, Flask, Django
+💬 Favorite tools: VS Code, Python, Linux, Django
 
 📚 Currently working on:
 - Meta Backend Developer Course (Little Lemon API)
