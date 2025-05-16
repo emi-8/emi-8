@@ -7,7 +7,6 @@
 
 📚 Currently working on:
 - Meta Backend Developer Course (Little Lemon API)
-- Django chat app mini project
 - PortSwigger Web Security Academy labs
 
 Feel free to explore my repos or reach out!
