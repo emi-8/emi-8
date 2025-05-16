@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Emi 👋
+
+🐍 I’m learning full-stack development with Python and Django  
+🔐 Exploring cybersecurity & ethical hacking  
+🧠 I love building small projects to learn by doing  
+💬 Favorite tools: VS Code, Kali Linux, Flask, Django
+
+📚 Currently working on:
+- Meta Backend Developer Course (Little Lemon API)
+- Django chat app mini project
+- PortSwigger Web Security Academy labs
+
+Feel free to explore my repos or reach out!
 
 <!--
 **emi-8/emi-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
