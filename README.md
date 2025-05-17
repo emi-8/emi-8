@@ -1,4 +1,4 @@
-Hi, I’m Emi 👋
+#Hi, I’m Emi 👋
 
 I’m a curious learner exploring ethical hacking, NLP, and how systems connect.
 Right now I’m focusing on web security, bug bounty methodology, and natural language processing—studying through platforms like PortSwigger and real-world CTFs.
