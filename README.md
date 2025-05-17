@@ -3,7 +3,7 @@
 🐍 I’m learning full-stack development with Python and Django  
 🛡️ Exploring cybersecurity with Kali Linux (CTFs & PortSwigger labs)  
 🧠 I love building small projects to learn by doing  
-💬 Favorite tools: VS Code, Python, Linux, Django
+💬 Favorite tools: VS Code, Python, Linux, Django, Burp
 
 📚 Currently working on:
 - Meta Backend Developer Course (Little Lemon API)
