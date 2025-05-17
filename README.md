@@ -1,17 +1,7 @@
 Hi, I’m Emi 👋
+I explore security, systems, and language—learning through PortSwigger labs, CTFs, and NLP projects.
+Quietly mapping how things work beneath the surface.
 
-I’m a curious learner exploring ethical hacking, NLP, and how systems connect.
-Right now I’m focusing on web security, bug bounty methodology, and natural language processing—studying through platforms like PortSwigger and real-world CTFs.
-
-💬 Favorite tools: Burp Suite, Kali Linux, VS Code, Python
-
-📚 Currently working on:
-
-- PortSwigger Web Security Academy labs
-- NLP system development & language modeling basics
-- Occasional CTFs and bug bounty recon practice
-
-Feel free to explore my repos or reach out!
 <!--
 **emi-8/emi-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
