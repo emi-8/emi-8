@@ -7,9 +7,9 @@ Right now I’m focusing on web security, bug bounty methodology, and natural la
 
 📚 Currently working on:
 
-PortSwigger Web Security Academy labs
-NLP system development & language modeling basics
-Occasional CTFs and bug bounty recon practice
+- PortSwigger Web Security Academy labs
+- NLP system development & language modeling basics
+- Occasional CTFs and bug bounty recon practice
 
 Feel free to explore my repos or reach out!
 <!--
