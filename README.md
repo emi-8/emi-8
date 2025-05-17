@@ -7,6 +7,7 @@ I learn best by breaking things down, connecting patterns, and reflecting deeply
 Sometimes I build, sometimes I study, but I’m always trying to understand how things work beneath the surface.
 
 💬 Favorite tools: Burp Suite, Kali Linux, VS Code, Python
+
 📚 Currently working on:
 
 PortSwigger Web Security Academy labs
