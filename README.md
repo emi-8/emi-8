@@ -1,16 +1,21 @@
-# Hi, I'm Emi 👋
+Hi, I’m Emi 👋
 
-🐍 I’m learning full-stack development with Python and Django  
-🛡️ Exploring cybersecurity with Kali Linux (CTFs & PortSwigger labs)  
-🧠 I love building small projects to learn by doing  
-💬 Favorite tools: VS Code, Python, Linux, Django, Burp
+I’m a curious learner exploring ethical hacking, NLP, and how systems connect.
+Right now I’m focusing on web security, bug bounty methodology, and natural language processing—studying through platforms like PortSwigger and real-world CTFs.
 
+I learn best by breaking things down, connecting patterns, and reflecting deeply.
+Sometimes I build, sometimes I study, but I’m always trying to understand how things work beneath the surface.
+
+💬 Favorite tools: Burp Suite, Kali Linux, VS Code, Python
 📚 Currently working on:
-- Meta Backend Developer Course (Little Lemon API)
-- PortSwigger Web Security Academy labs
+
+PortSwigger Web Security Academy labs
+
+NLP system development & language modeling basics
+
+Occasional CTFs and bug bounty recon practice
 
 Feel free to explore my repos or reach out!
-
 <!--
 **emi-8/emi-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
