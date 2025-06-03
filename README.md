@@ -1,8 +1,10 @@
 Hi, I’m Emi 👋
 
-I explore AI, security, and language—working on LLM QA, CTF challenges, and NLP projects. I enjoy quietly mapping how systems behave beneath the surface.
+I explore AI, security, and language—working on LLM evaluation, CTF challenges, and NLP projects.  
+I enjoy quietly mapping how systems behave beneath the surface.
 
-Currently learning through PortSwigger labs, TryHackMe, HackTheBox and real-world annotation work. 
+Currently learning through PortSwigger labs, TryHackMe, Hack The Box, and hands-on real-world annotation work.
+
 
 
 
