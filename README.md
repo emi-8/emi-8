@@ -1,7 +1,9 @@
-Hi, I’m Emi 👋
+AI Safety & Quality Specialist | LLM Evaluator | Building JCA-Bench
 
-I explore AI, security, and language—working on LLM evaluation, CTF challenges, and NLP projects.  
-I enjoy quietly mapping how systems behave beneath the surface.
+Exploring AI behavior through evaluation, red teaming, and cultural benchmarking. <br>
+Background: Google Cybersecurity certified, Lakera Gandalf adversarial testing (2nd place in model league).
+
+I map how systems behave beneath the surface.
 
 
 
