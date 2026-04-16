@@ -3,6 +3,7 @@
 - 🗾 [JCA-Bench](https://github.com/emi-8/JCA-Bench) — Japanese Cultural Appropriateness Benchmark for evaluating AI cultural understanding
 - 📚 [LLM Security, Alignment & Governance Resources Awesome](https://github.com/0xSweet/awesome-llm-security-alignment) — Curated list of LLM safety resources
 - 🎭 [Gandalf Agent Breaker Report](https://github.com/0xSweet/gandalf-agent-breaker-report) - 2nd place in model league
+- 🐾 [Blog](https://emi-8.github.io/)
 
 ## Interests
 - Mechanistic Interpretability
