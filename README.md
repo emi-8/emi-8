@@ -1,5 +1,3 @@
-Looking for an arXiv endorser (cs.CL or cs.AI). Independent researcher, no institutional affiliation. Please reach out if you can help! 🍊
-
 ## Research & Projects
 - 🔬 [Competing Circuits Across Languages](https://github.com/emi-8/competing-circuits-multilingual) — Safety vs. Instruction-Following Dynamics in Multilingual LLMs (WIP)
 - 📚 [LLM Security, Alignment & Governance Resources Awesome](https://github.com/0xSweet/awesome-llm-security-alignment) — — Curated list of LLM security, alignment & governance resources (maintained as 0xSweet)
