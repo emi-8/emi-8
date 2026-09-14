@@ -5,10 +5,7 @@
 - 🎭 [Gandalf Agent Breaker Report](https://github.com/0xSweet/gandalf-agent-breaker-report) - 2nd on model-specific leaderboard / 4th overall (maintained as 0xSweet)
 
 ## Interests
-- Mechanistic Interpretability
-- Multilingual AI Safety
-- Red Teaming
-
+Behavioral evaluations, adversarial testing, and black-box system identification of AI agents, with a focus on behavioral triggers, boundary transitions, and interaction effects.
 
 
 
